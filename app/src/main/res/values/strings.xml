@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MobilAraSinav</string>
+
+
+    <!-- MAIN ACTIVITY -->
+    <string name="ad_soyad">TUNCA KENT</string>
+    <string name="ogrenci_no">202013709002</string>
+
+    <string name="main_buton1">Converter</string>
+    <string name="main_buton2">Random</string>
+    <string name="main_buton3">SMS</string>
+
+
+    <!-- CONVERTER ACTIVITY -->
+    <string name="converter_text1">Decimal</string>
+    <string name="converter_text2">MegaByte</string>
+    <string name="converter_text3">Celcius</string>
+    <string name="converter_sonuc">SONUC : </string>
+
+    <string name="converter_radioBtn1">Fahrenheit</string>
+    <string name="converter_radioBtn2">Kelvin</string>
+
+
+    <!-- RANDOM ACTIVITY -->
+    <string name="random_text1">Adet</string>
+    <string name="random_text2">Max</string>
+    <string name="random_text3">Min</string>
+
+
+
+    <!-- SMS ACTIVITY -->
+    <string name="sms_text1">Tel</string>
+    <string name="sms_text2">Mesaj</string>
+    <string name="sms_text3">Random Soz</string>
+    <string name="sms_text4">Gonder</string>
+
+
+</resources>
